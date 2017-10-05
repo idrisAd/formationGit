@@ -12,3 +12,6 @@ Ce répertoire correspond aux exemples réalisés au cours de la formation à Gi
 `git add` Permet d'ajouter un fichier dans l'index  
 `git commit -m "nom du commit"` Permet de valider la modification avec un nom  
 
+<h3 align="center">
+  <img src="images/carlostocat.gif" alt="carlostocat" width="400px" height="400px" />
+</h3>

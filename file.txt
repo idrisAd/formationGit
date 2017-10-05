@@ -6,4 +6,4 @@ test github
 
 test rebase
 
-test conflit git github
+test conflit github git

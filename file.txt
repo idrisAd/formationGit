@@ -5,3 +5,5 @@ test stash
 test github
 
 test rebase
+
+test conflit git github

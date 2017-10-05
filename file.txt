@@ -4,4 +4,4 @@ test pour erreur
 test stash
 test github
 
-test rebase master
+test rebase

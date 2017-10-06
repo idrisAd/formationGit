@@ -1,7 +1,7 @@
 # formationGit
 
 <h3 align="center">
-  <img src="https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png" alt="Git Logo" width="400" />
+  <img src="https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png" alt="Git Logo" width="500" />
 </h3>
 Ce répertoire correspond aux exemples réalisés au cours de la formation à Git et Github.
 

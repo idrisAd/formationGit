@@ -6,6 +6,8 @@ test github
 
 test rebase
 
-texte a retrouver apres le rebase itératif
 
 test kraken
+
+test conflit github git
+
